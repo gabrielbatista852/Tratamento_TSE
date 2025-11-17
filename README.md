@@ -1,10 +1,10 @@
 # Tratamento, modelagem e comunicação de dados do TSE
-##Dados:
+## Dados:
 - Fonte: ElectionsBR (TSE)
 - Ano: 2024
 
-##Objetivo:
+## Objetivo:
 Tranformar, modelar e comunicar dados de candidatos a vereador de Aimorés-MG (2024)
 
-##Linguagem: 
+## Linguagem: 
 Rstudio (pacotes: electionsBR, tidyverse, showtext, gt, janitor, margins)
