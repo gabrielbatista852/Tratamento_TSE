@@ -1,4 +1,4 @@
-# Tratamento, modelagem e comunicação de dados do TSE
+# Tratamento, Modelagem e Comunicação de Dados do TSE
 ## Dados:
 - Fonte: ElectionsBR (TSE)
 - Ano: 2024
